@@ -1,0 +1,3 @@
+web01 - CPU: 75% - Disk 85% - Status: HEALTHY
+app01 - CPU: 60% - Disk 70% - Status: HEALTHY
+db01 - CPU: 85% - Disk 95% - Status: UNHEALTHY
