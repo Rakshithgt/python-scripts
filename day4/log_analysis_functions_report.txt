@@ -1,0 +1,25 @@
+Log Analysis Report
+Generated At: 2026-06-08 15:30:03.613603
+---------------------
+
+Total Requests: 10
+Total Errors: 5
+Unique IPs: 4
+Error Percentage: 50.00%
+
+IP Request Count
+----------------------
+192.168.1.10 made 4 requests
+10.0.0.5 made 3 requests
+192.168.1.11 made 2 requests
+172.16.0.20 made 1 requests
+
+Suspicious IPs
+----------
+192.168.1.10 is suspicious with 4 requests
+
+HTTP Error Status Count
+------------------------
+403 appeared 3 times
+401 appeared 1 times
+500 appeared 1 times
